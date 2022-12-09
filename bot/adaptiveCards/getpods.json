@@ -5,7 +5,7 @@
         "type": "TextBlock",
         "size": "Medium",
         "weight": "Bolder",
-        "text": "This is Citi SRE ChatOps Test Bot(Using Bot get K8s resources) "
+        "text": "This isSRE ChatOps Test Bot(Using Bot get K8s resources) "
       },
       {
         "type": "TextBlock",
