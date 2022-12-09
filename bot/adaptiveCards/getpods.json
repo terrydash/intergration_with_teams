@@ -1,0 +1,20 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+      {
+        "type": "TextBlock",
+        "size": "Medium",
+        "weight": "Bolder",
+        "text": "This is Citi SRE ChatOps Test Bot(Using Bot get K8s resources) "
+      },
+      {
+        "type": "TextBlock",
+        "text": "${podList}",
+        "wrap": true
+      }
+    ],
+    "actions": [],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.4"
+  }
+  
